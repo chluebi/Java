@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author chluebi
+ *
+ */
+module gameRPG {
+}
